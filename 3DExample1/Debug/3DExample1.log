@@ -1,0 +1,219 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of GLee.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\GLee.c, ..\shared\GLee.c.
+  GLee.c
+e:\year 2\3d graphics\football\textures tutorial\shared\glee.c(9306): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\year 2\3d graphics\football\textures tutorial\shared\glee.c(9374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  GLee.c
+e:\year 2\3d graphics\football\textures tutorial\glee.c(9306): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\year 2\3d graphics\football\textures tutorial\glee.c(9374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  Generating Code...
+  tutorial8_textures.cpp
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(214): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(303): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(357): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(381): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(697): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(727): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(728): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(732): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(733): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(753): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(754): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(758): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(759): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(776): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(790): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(793): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(796): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(799): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(806): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(809): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(812): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(815): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(821): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(824): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(827): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(830): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(836): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(839): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(842): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(845): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(852): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(855): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(858): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(861): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(867): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(870): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(873): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(876): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(1040): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(1065): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\tutorial8_textures.cpp(1108): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  glm.cpp
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(187): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: see declaration of 'strdup'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(234): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: see declaration of 'strdup'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(303): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(304): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(305): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(307): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(308): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(309): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(263): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(276): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(285): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(316): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: see declaration of 'strdup'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(320): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(328): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(330): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: see declaration of 'strdup'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(333): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(347): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(353): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(391): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(392): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(452): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(483): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(484): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: see declaration of 'strdup'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(503): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(507): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(508): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(509): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(512): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(516): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(518): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(519): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(522): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(526): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(528): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(529): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(532): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(538): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(539): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(542): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(603): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(612): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(619): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(626): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(635): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(651): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(655): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(658): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(661): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(666): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(676): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(681): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(685): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(691): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(704): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(708): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(711): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(716): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(728): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(730): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(732): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(736): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(811): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(812): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(813): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(816): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1016): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1172): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1179): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1180): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1230): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1231): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1238): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1240): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1243): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1245): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1248): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1249): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1312): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1321): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: see declaration of 'strdup'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1433): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1795): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1816): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1818): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+e:\year 2\3d graphics\football\textures tutorial\shared\glm.cpp(1820): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  math3d.cpp
+  gltools.cpp
+e:\year 2\3d graphics\football\textures tutorial\gltools.cpp(433): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\year 2\3d graphics\football\textures tutorial\gltools.cpp(476): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+GLee.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+Debug\GLee.obj : warning LNK4042: object specified more than once; extras ignored
+  3DExample1.vcxproj -> E:\Year 2\3D Graphics\Football\Textures Tutorial\Debug\3DExample1.exe
